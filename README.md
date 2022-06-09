@@ -26,6 +26,10 @@ Python Notebook used with version 3.9.7 in jupyter.
 5) matplotlib
 6) xgboost
 7) statsmodels.api
+
+## Screenshots
+![PairPlot](https://user-images.githubusercontent.com/70154122/172836931-ec5ff741-b35d-4775-ae8f-d202dbe56301.png)
+
 ## Conclusion
 
 
@@ -33,7 +37,6 @@ Python Notebook used with version 3.9.7 in jupyter.
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/joyb05)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joy-bhowmick-37269b80/)
 
-## Screenshots
-![PairPlot](https://user-images.githubusercontent.com/70154122/172836931-ec5ff741-b35d-4775-ae8f-d202dbe56301.png)
+
 
 
