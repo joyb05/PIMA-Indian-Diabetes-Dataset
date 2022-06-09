@@ -34,6 +34,6 @@ Python Notebook used with version 3.9.7 in jupyter.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joy-bhowmick-37269b80/)
 
 ## Screenshots
+![PairPlot](https://user-images.githubusercontent.com/70154122/172836931-ec5ff741-b35d-4775-ae8f-d202dbe56301.png)
 
-![PairPlot.png](https://github.com/joyb05/PIMA-Indian-Diabetes-Dataset/blob/main/PairPlot.png)
 
