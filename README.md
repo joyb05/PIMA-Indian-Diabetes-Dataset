@@ -29,12 +29,12 @@ Python Notebook used with version 3.9.7 in jupyter.
 
 ## Screenshots
 ![PairPlot](https://user-images.githubusercontent.com/70154122/172836931-ec5ff741-b35d-4775-ae8f-d202dbe56301.png)
-![PD_1.jpg](https://github.com/joyb05/PIMA-Indian-Diabetes-Dataset/blob/main/PD_1.jpg)
-![PD_2.jpg](https://github.com/joyb05/PIMA-Indian-Diabetes-Dataset/blob/main/PD_2.jpg)
-![PD_3.jpg](https://github.com/joyb05/PIMA-Indian-Diabetes-Dataset/blob/main/PD_3.jpg)
+
 
 ## Conclusion
+The best result is being given by **Quadratic Discriminent Analysis**. The **accuracy was at 78%**, the model's **recall was 73%** and **precision was 85.3%** along with that it had the lowest Type-I & Type-II error, as this is a healthcare domain problem thus these error should be the least. **Type-II error for this model is the least.** Thus, this model is being choosen for the prediction of the diabetes patients. **Glucose and BMI features were the most significant** in predicting weather a person has diabetes or not.
 
+The Power BI visualization is attached.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/joyb05)
