@@ -29,6 +29,9 @@ Python Notebook used with version 3.9.7 in jupyter.
 
 ## Screenshots
 ![PairPlot](https://user-images.githubusercontent.com/70154122/172836931-ec5ff741-b35d-4775-ae8f-d202dbe56301.png)
+![PD_1.jpg](https://github.com/joyb05/PIMA-Indian-Diabetes-Dataset/blob/main/PD_1.jpg)
+![PD_2.jpg](https://github.com/joyb05/PIMA-Indian-Diabetes-Dataset/blob/main/PD_2.jpg)
+![PD_3.jpg](https://github.com/joyb05/PIMA-Indian-Diabetes-Dataset/blob/main/PD_3.jpg)
 
 ## Conclusion
 
