@@ -28,7 +28,6 @@ Python Notebook used with version 3.9.7 in jupyter.
 7) statsmodels.api
 
 ## Screenshots
-![PairPlot](https://user-images.githubusercontent.com/70154122/172836931-ec5ff741-b35d-4775-ae8f-d202dbe56301.png)
 ![Pima_1](https://user-images.githubusercontent.com/70154122/175788579-5eea41db-6946-4dd9-b82d-e41cbe946333.jpg)
 ![Pima_2](https://user-images.githubusercontent.com/70154122/175788592-95f4b388-06df-47d0-ad4a-f76f92e3ff51.jpg)
 ![Pima_3](https://user-images.githubusercontent.com/70154122/175788595-8ad5fd99-a29c-43e2-8c5f-9c1908b51d19.jpg)
