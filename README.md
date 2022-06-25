@@ -12,8 +12,8 @@ The objective is to find a model which will be able to predict whether a person 
 The dataset was cleaned before analysis as this dataset contained missing values. Following that outliers were also treated that was present in the dataset. 
 Exploratory data analysis was conducted on this dataset to get a better understanding of the data. Due to the small size of the dataset, statistical models are used for the data and to compare one machine learning model is also used. 
 ## Models Used:
-1) Linear Discriminent Analysis
-2) Quadratic Discriminent Analysis
+1) Linear Discriminant Analysis
+2) Quadratic Discriminant Analysis
 3) Logistic Regression
 4) Xg Boost
 ## Notebook Used
@@ -32,8 +32,7 @@ Python Notebook used with version 3.9.7 in jupyter.
 
 
 ## Conclusion
-The best result is being given by **Quadratic Discriminent Analysis**. The **accuracy was at 78%**, the model's **recall was 73%** and **precision was 85.3%** along with that it had the lowest Type-I & Type-II error, as this is a healthcare domain problem thus these error should be the least. **Type-II error for this model is the least.** Thus, this model is being choosen for the prediction of the diabetes patients. **Glucose and BMI features were the most significant** in predicting weather a person has diabetes or not.
-
+**Quadratic Discriminant Analysis** is giving the best result. **The accuracy was at 78%**, the model's **recall was 73% and precision was 85.3%** along with that it had the **lowest Type-I & Type-II error**, as this is a **healthcare domain problem** thus these errors should be the least. **Type-II error for this model is the least.** Therefore, this model is being chosen for the prediction of diabetes patients. **Glucose and BMI features** were the most significant in predicting whether a person has diabetes or not.
 The Power BI visualization is attached.
 
 ## 🔗 Links
