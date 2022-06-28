@@ -12,7 +12,7 @@ Build a model to accurately predict whether the patients in the dataset have dia
 The objective is to find a model which will be able to predict whether a person is likely to have diabetes or not given their medical records. Various statistical models was tested against this dataset to find the one which will be best suited for this problem. This project also aimed to understand which features are significant to correctly predict whether a person is havind diabetes or not. 
 ## Methodology
 The dataset was cleaned before analysis as this dataset contained missing values. Following that outliers were also treated that was present in the dataset. 
-Exploratory data analysis was conducted on this dataset to get a better understanding of the data. Due to the small size of the dataset, statistical models are used for the data and to compare one machine learning model is also used. 
+Exploratory data analysis was conducted on this dataset to get a better understanding of the data. Due to the small size of the dataset, statistical models are used mostly for this dataset and to compare machine learning model is also used. 
 ## Models Used:
 1) KNN
 2) Linear Discriminant Analysis
