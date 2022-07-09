@@ -12,7 +12,7 @@ Build a model to accurately predict whether the patients in the dataset have dia
 The objective is to find a model which will be able to predict whether a person is likely to have diabetes or not given their medical records. Various statistical models was tested against this dataset to find the one which will be best suited for this problem. This project also aimed to understand which features are significant to correctly predict whether a person is havind diabetes or not. 
 ## Methodology
 The dataset was cleaned before analysis as this dataset contained missing values. Following that outliers were also treated that was present in the dataset. 
-Exploratory data analysis was conducted on this dataset to get a better understanding of the data. Due to the small size of the dataset, statistical models are used mostly for this dataset and to compare machine learning model is also used. 
+Exploratory data analysis was conducted on this dataset to get a better understanding of the data. Due to the small size of the dataset, statistical models are used mostly for this dataset and to compare machine learning model is also used. This dataset was a unbalance dataset and thus SMOTE was used to balance the dataset and again use models to find which best suits this dataset.
 ## Models Used:
 1) KNN
 2) Linear Discriminant Analysis
@@ -37,7 +37,8 @@ Python Notebook used with version 3.9.7 in jupyter.
 
 
 ## Conclusion
-From the above exercise we can see that *Quadratic Discriminant Analysis(QDA)* provides the best result amongst all the models that has been used above. This being a healthcare problem, QDA has been choosen because it has the lowest *Type - II error* and the *highest precision*, thus QDA is choosen for this problem.
+Without smote the best model is KNN with an accuracy of 79% and also the AUC-ROC score, after implementing SMOTE can see that KNN has the best accuracy at 83% but the AUC-ROC score for LDA is the highest. I choose KNN over LDA as its errors which are False Positive(FP) & False Negative(FN) are low compared to LDA.
+Thus, it being a healthcare problem we should try to choose a model whose not only accuracy-wise good but also False Positive(FP) & False Negative(FN) are low and hence KNN is a better model.
 
 The Power BI visualization is attached.
 
